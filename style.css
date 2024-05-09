@@ -1,0 +1,96 @@
+.header {
+	background-color: black;
+	color: white;
+	height: 100px;
+	text-align: center;
+}
+.blanco {
+	background-color: white;
+}
+.parrafos{
+	padding: 20px;	
+}
+.perfil {
+	height: 227px;
+	width: 189px;
+}
+.centrado {
+	text-align: center;
+}
+.negro {
+	background-color: black;
+	color: white;
+}
+.copy {
+	font-size: 10px;
+}
+.idk {
+	height: 50px;
+}
+.legal {
+	text-align: right;
+}
+.legal a {
+	color: white;
+}
+.legal a:hover{
+	color: lightblue;
+}
+.contacto a {
+	color: white;
+}
+.contacto a:hover{
+	color: lightblue;
+}
+.footer {
+	margin-top: 40px;
+}
+@media (max-width: 991px) {
+	.legal {
+		text-align: left;
+	}
+}
+.a {
+	height: auto;
+	width: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.resultados {
+	text-align: center;
+}
+.ganador {
+	background-color: green;
+	padding-left: 500;
+	margin-right: 0;
+}
+.historial {
+	list-style: none;
+	color: black;
+}
+.recto {
+	height: 20px;
+	background-color: white;
+}
+.salto {
+	padding-top: 50px;
+}
+.mapaJE {
+	height: 700px;
+	width: 600px;
+
+}
+.menu li {
+	list-style: none;
+}
+.grande {
+	height: 1000px;
+}
+.lista-parrafo {
+	list-style: none;
+
+}
+.lista-parrafo a {
+	color: black;
+}
+
